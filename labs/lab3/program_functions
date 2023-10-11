@@ -1,0 +1,13 @@
+| command | what it does |
+| ------- | ------------ |
+| echo    |Echos the string(s) to standard output|
+| fortune |Prints a random adage|
+| cowsay  |Generates an ASCII picture of a cow saying something the user inputs|
+| lolcat  |This program cocatenates files or standard input to standard output and adds  
+           rainbow coloring to it.|
+| figlet  |Prints text using larger characters made up of ordinary
+           screen  characters              |
+| toilet  |Prints text using larger characters made of smaller characters|
+| rig     |Pieces together a random first name, last name, street number and address, 
+           along with a geographically consistant city, state, ZIP code, and 
+           area  code |
