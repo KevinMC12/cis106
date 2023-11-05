@@ -1,7 +1,8 @@
+
 ---
-name: Kevin Marcelo-Castillo
-course: cis106
-semester: Fall 2023
+Name: Kevin Marcelo-Castillo
+Course: cis106
+Semester: Fall 2023
 ---
 # Questions
 **What are Command Options?**
