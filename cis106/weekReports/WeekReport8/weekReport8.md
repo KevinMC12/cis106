@@ -27,7 +27,7 @@ The command `vim` starts VIM. To quit VIM, go to the command mode by pressing `:
 In vim, press `i` to enter insert mode and input text.
 
 ## How to save a file in VIM
-In vim, press `:` to enter the command mode and input `:w` to save the file. To save the file and quit vim, input `:wq`
+In vim, press `:` to enter the command mode and input `:w` to save the file. To save the file and quit vim, input `:wq!`
 
 ## How to search for a word inside VIM
 To search for a word inside vim forward, input `/ + word you are looking for`. To search backwards, input `? + word you are looking for` Inputting the letter n will repeat the search for the next word.
