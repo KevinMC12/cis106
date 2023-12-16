@@ -1,3 +1,9 @@
+---
+name: Kevin Marcelo-Castillo
+semester: Fall 2023
+course: CIS 106 Linux Fundamentals
+---
+
 # What is GNU+Linux?
 
 GNU+Linux is an open source operating system that is based on Unix and is used nearly everywhere. 
