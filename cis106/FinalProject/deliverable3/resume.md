@@ -19,11 +19,11 @@ Knowledgeable about technology and how to troubleshoot common problems. Able to 
 ## Experience 
 
 ### TechEarth Inc.
-***Technical Support Supervisor- Dec, 2018 - Nov, 2019***
+***Technical Support Supervisor- Oct, 2023 - Present***
 Drived employee engagement and development, managed case escalations
 
 ### Eliteness Co.
-***Technical Support Specialist- Dec, 2016 - Oct, 2017***
+***Technical Support Specialist- Dec, 2022 - Oct, 2023***
 Provided technical assistance in evaluating software installation, tested and evaluated equipment to meet company standards.
 
 <hr>
@@ -31,10 +31,10 @@ Provided technical assistance in evaluating software installation, tested and ev
 ## Education
 
 ### Passaic County Community College
-***Associate's Degree- Technical Support - Sep, 2014- Dec, 2016***
+***Associate's Degree- Technical Support - Dec, 2022- Present***
 
 ### International High School
-***High School Diploma- Jun, 2014***
+***High School Diploma- Jun, 2022***
 
 <hr>
 
@@ -58,7 +58,7 @@ I have used Python for data entry and automation.
 ## Recognition
 
 ### Most Likely To Succeed
-***International High School- Jun,2014*** 
+***International High School- Jun, 2022*** 
 Voted Most Likely To Succeed by peers.
 
 <hr>
@@ -66,5 +66,5 @@ Voted Most Likely To Succeed by peers.
 ## Associations
 
 ### American Red Cross
-***Volunteer- Jun, 2015- Sep, 2015***
+***Volunteer- Aug, 2022- Sep, 2022***
 Attended fundraising events and donated blood to patients.
