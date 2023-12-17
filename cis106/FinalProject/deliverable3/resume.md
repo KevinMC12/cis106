@@ -14,6 +14,8 @@ course: CIS 106 Linux Fundamentals
 
 Knowledgeable about technology and how to troubleshoot common problems. Able to solve problems quickly and efficiently. 
 
+<hr>
+
 ## Experience 
 
 ### TechEarth Inc.
@@ -24,6 +26,8 @@ Drived employee engagement and development, managed case escalations
 ***Technical Support Specialist- Dec, 2016 - Oct, 2017***
 Provided technical assistance in evaluating software installation, tested and evaluated equipment to meet company standards.
 
+<hr>
+
 ## Education
 
 ### Passaic County Community College
@@ -32,11 +36,15 @@ Provided technical assistance in evaluating software installation, tested and ev
 ### International High School
 ***High School Diploma- Jun, 2014***
 
+<hr>
+
 ## Projects
 
 ### ITgame
 ***Primary Developer- Jun, 2018-Present***
 An educational game that makes IT concepts easy to understand. 
+
+<hr>
 
 ## Skills
 
@@ -45,11 +53,15 @@ I have working knowledge of Microsoft Word, Excel, PowerPoint, and Access
 ### Python
 I have used Python for data entry and automation.
 
+<hr>
+
 ## Recognition
 
 ### Most Likely To Succeed
 ***International High School- Jun,2014*** 
 Voted Most Likely To Succeed by peers.
+
+<hr>
 
 ## Associations
 
